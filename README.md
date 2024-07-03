@@ -48,7 +48,7 @@ plt.ylabel('Price ($)')
 plt.title('Linear Regression: House Prices vs Size')
 plt.show()
 
-###3 Explanation
+### Explanation
 1. Libraries: We import necessary libraries like numpy, pandas, sklearn, and matplotlib.
 2. Data Preparation: We create a DataFrame containing the size and price of houses.
 3. Feature and Target: We separate the feature (Size) and the target (Price).
