@@ -1,4 +1,5 @@
-# Machine_Learning Short notes 
+# Machine_Learning Short notes (Revision)
+![visualization_table](https://github.com/manav-888/Machine_Learning/assets/28830098/13dd46ef-a619-4a52-aafc-f7be6443c25e)
 
 
 
