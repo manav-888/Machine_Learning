@@ -1,4 +1,45 @@
 # Machine_Learning Short notes (Revision)
+
+1️⃣ Linear Regression 
+->Used for predicting continuous values.
+->Models the relationship between dependent and independent variables by fitting a linear equation.
+
+2️⃣ Logistic Regression 
+->Ideal for binary classification problems.
+->Estimates the probability that an instance belongs to a particular class.
+
+3️⃣ Decision Trees 
+->Splits data into subsets based on the value of input features.
+->Easy to visualize and interpret but can be prone to overfitting.
+
+4️⃣ Random Forest 
+->An ensemble method using multiple decision trees.
+->Reduces overfitting and improves accuracy by averaging multiple trees.
+
+5️⃣ Support Vector Machines (SVM) 
+->Finds the hyperplane that best separates different classes.
+->Effective in high-dimensional spaces and for classification tasks.
+
+6️⃣ k-Nearest Neighbors (k-NN) 
+->Classifies data based on the majority class among the k-nearest neighbors.
+->Simple and intuitive but can be computationally intensive.
+
+7️⃣ K-Means Clustering 
+->Partitions data into k clusters based on feature similarity.
+->Useful for market segmentation, image compression, and more.
+
+8️⃣ Naive Bayes 
+->Based on Bayes' theorem with an assumption of independence among predictors.
+->Particularly useful for text classification and spam filtering.
+
+9️⃣ Neural Networks 
+->Mimic the human brain to identify patterns in data.
+->Power deep learning applications, from image recognition to natural language processing.
+
+🔟 Gradient Boosting Machines (GBM) 
+->Combines weak learners to create a strong predictive model. 
+->Used in various applications like ranking, classification, and regression.
+
 ![visualization_table](https://github.com/manav-888/Machine_Learning/assets/28830098/13dd46ef-a619-4a52-aafc-f7be6443c25e)
 
 
