@@ -42,6 +42,7 @@
 
 ![visualization_table](https://github.com/manav-888/Machine_Learning/assets/28830098/13dd46ef-a619-4a52-aafc-f7be6443c25e)
 
+![2024-07-08 12 13 36](https://github.com/manav-888/Machine_Learning/assets/28830098/5430bfe3-e3e5-49b1-83c9-50e252b88fe1)
 
 
 
