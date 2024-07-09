@@ -40,7 +40,8 @@
 ->Combines weak learners to create a strong predictive model. 
 ->Used in various applications like ranking, classification, and regression.
 
-![visualization_table](https://github.com/manav-888/Machine_Learning/assets/28830098/13dd46ef-a619-4a52-aafc-f7be6443c25e)
+
+![ML+Cheat+Sheet_2](https://github.com/manav-888/Machine_Learning/assets/28830098/aac776f7-5eb1-4f50-9db5-529b80c477c6)
 
 ![2024-07-08 12 13 36](https://github.com/manav-888/Machine_Learning/assets/28830098/5430bfe3-e3e5-49b1-83c9-50e252b88fe1)
 
